@@ -1,0 +1,2 @@
+public class KgSanchit01 {
+}
